@@ -9,6 +9,8 @@ var flash = require('connect-flash');
 var cookieParser = require('cookie-parser');
 var session = require('express-session');
 
+var port = process.env.PORT || 3000;
+
 var { mongoose } = require('./db/mongoose');
 var { User } = require('./models/user');
 var { router } = require('./routes/index');
@@ -121,6 +123,6 @@ app.delete('/logout', authenticate, (req, res) => {
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log("Server up at port 3000");
 });
