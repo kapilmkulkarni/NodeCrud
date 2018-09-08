@@ -6,22 +6,23 @@ var transporter = nodemailer.createTransport({
   port:587,
   transportMethod: 'SMTP',
   auth: {
-    user: 'yashshah2331@gmail.com',
-    pass:'yash2331'
+    user: 'yjshah1996@gmail.com',
+    pass: 'yashjayeshshah1'
   }
 });
 
 var mailOptions = {
-  from: '"yash" <yashshah2331@gmail.com>',
-  to: 'yjshah1996@gmail.com',
-  subject: 'Sending Email using Node.js',
-  text: 'That was easy!'
+  from: ' "Admin" <donotreply@24klen.com>',
+  to: 'yash.shah@encureit.com',
+  subject: 'Hellooo',
+  text: 'Practice......'
+  // attachments: [{'filename': 'attachment.txt', 'content': data}]
 };
 
 transporter.sendMail(mailOptions, function(error, info){
   if (error) {
     console.log(error);
   } else {
-    console.log('Email sent: ' + info.response);
+    console.log(info.response);
   }
 }); 

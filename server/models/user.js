@@ -5,40 +5,52 @@ var _ = require('lodash');
 var bcrypt = require('bcryptjs');
 var flash = require('connect-flash');
 
-
 var UserSchema = new mongoose.Schema({
-    email: {
-        type: String,
-        required: true,
-        minlength: 1,
-        trim: true,
-        unique: true,
-        validate: {
-            validator: validator.isEmail,
-        },
-        message: `{VALUE} is not valid`
-    },
-    password: {
-        type: String,
-        required: true,
-        minlength: 6
-    },
-    tokens: [{
-        access: {
+        email: {
             type: String,
-            required: true
+            required: true,
+            minlength: 1,
+            trim: true,
+            unique: true,
+            validate: {
+                validator: validator.isEmail,
+            },
+            message: `{VALUE} is not valid`
         },
-        token: {
+
+        fbid:{
+            type:String
+        },
+        fbtoken:{
+            type:String
+        },
+        fbemail:{
+            type:String
+        },
+        fbname:{
+            type:String
+        },
+        
+        password: {
             type: String,
-            required: true
-        }
-    }],
-    facebook: {
-		id: String,
-		token: String,
-		email: String,
-		name: String
-	}
+            minlength: 6,
+            default:null
+
+        },
+        tokens: [{
+            access: {
+                type: String,
+                required: true
+            },
+            token: {
+                type: String,
+                required: true
+            }
+        }],
+
+
+     
+    
 },
     { timestamps: true },
     { collections: 'yash' }
@@ -85,13 +97,53 @@ UserSchema.methods.generateAutoToken = function () {
 
 UserSchema.methods.removeToken = function (token) {
     var user = this;
-
+    console.log('qqqqqqqqqqqqqqqqqqqqqqqqq',token);
     return user.update({
         $pull: {
             tokens: { token }
         }
     });
 };
+
+// UserSchema.methods.insertFacebook = function (profile, accessToken) {
+//     // console.log(';;;;;;;;;;;;;;;;in insertFacebook',profile);   
+//     var user = this;
+//     // user.facebook.id = profile.id;
+//     // user.facebook.token = accessToken;
+//     // user.facebook.name = profile.name.givenName + ' ' + profile.name.familyName;
+//     // user.facebook.fbemail = profile.emails[0].value;
+
+//     return User.findOne({ 'facebook.id': profile.id }, function (err, user) {
+//         if (err)
+//             return err;
+//         if (user) {
+//             return user;
+//         }
+//         else {
+
+//             // id = profile.id;
+//             // token = accessToken;
+//             // name = profile.name.givenName + ' ' + profile.name.familyName;
+//             // fbemail = profile.emails[0].value;
+//             // user.facebook.push({id, token, fbemail, name});
+
+
+//             console.log('////////', user);
+//             user.save().then(() => {
+//                 return user;
+//             }, (err) => {
+//                 return err;
+//             })
+//             // console.log(profile);
+//         }
+//     });
+
+//     //////////////////////////////////////
+//     // user.tokens.push({ access, token });
+//     // return user.save().then(() => {
+//     //     return token;
+//     // });
+// };
 
 UserSchema.statics.findByToken = function (token) {
     var User = this;
@@ -113,10 +165,9 @@ UserSchema.statics.findByToken = function (token) {
 
 UserSchema.statics.findByCrediantials = function (email, password) {
     var User = this;
-
     return User.findOne({ email }).then((user) => {
         if (!user) {
-            return Promise.reject('Invalid Email');             
+            return Promise.reject('Invalid Email');
         }
 
         return new Promise((resolve, reject) => {

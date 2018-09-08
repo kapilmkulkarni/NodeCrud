@@ -1,55 +1,70 @@
 <!-- views/profile.ejs -->
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="content-type" content="text/html/">
 	<title>Node Authentication</title>
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
 	<style>
-		body 		{ padding-top:80px; word-wrap:break-word; }
+		body {
+			padding-top: 80px;
+			word-wrap: break-word;
+		}
 	</style>
 </head>
+
 <body>
-<div class="container">
+	<div class="container">
 
-	<div class="page-header text-center">
-		<h1><span class="fa fa-anchor"></span> Profile Page</h1>
-		<a href="/logout" class="btn btn-default btn-sm">Logout</a>
-	</div>
-
-	<div class="row">
-
-		<!-- LOCAL INFORMATION -->
-		<div class="col-sm-6">
-			<div class="well">
-				<h3><span class="fa fa-user"></span> Local</h3>
-
-					<p>
-						<strong>id</strong>: <%= user._id %><br>
-						<strong>email</strong>: <%= user.local.username %><br>
-						<strong>password</strong>: <%= user.local.password %>
-					</p>
-
-			</div>
+		<div class="page-header text-center">
+			<h1>
+				<span class="fa fa-anchor"></span> Profile Page</h1>
+			<a href="/logout"  class="btn btn-default btn-sm">Logout</a>
+			<!-- <form action="/logout" method="post" class="btn btn-default btn-sm">
+				<input type="submit" value="Logout" class="btn btn-default btn-sm">
+			</form> -->
 		</div>
 
-		 <!-- FACEBOOK INFORMATION -->
-        <div class="col-sm-6">
-            <div class="well">
-                <h3 class="text-primary"><span class="fa fa-facebook"></span> Facebook</h3>
+		<div class="row">
 
-                <p>
-                    <strong>id</strong>: <%= user.facebook.id %><br>
-                    <strong>token</strong>: <%= user.facebook.token %><br>
-                    <strong>email</strong>: <%= user.facebook.email %><br>
-                    <strong>name</strong>: <%= user.facebook.name %>
-                </p>
+			<!-- LOCAL INFORMATION -->
+			<div class="col-sm-6">
+				<div class="well">
+					<h3>
+						<span class="fa fa-user"></span> Local</h3>
 
-            </div>
-        </div>
+					<p>
+						<strong>id</strong>:<%= user._id %><br>
+						<strong>email</strong>:<%= user.email %><br>
+						<strong>password</strong>:<%= user.password %>
+					</p>
+
+				</div>
+			</div>
+
+			<!-- FACEBOOK INFORMATION -->
+			<div class="col-sm-6">
+				<div class="well">
+					<h3 class="text-primary">
+						<span class="fa fa-facebook"></span> Facebook</h3>
+
+					<p>
+						<strong>id</strong>:<%= user.fbid %><br>
+						<strong>token</strong>:<%= user.fbtoken %>
+						<strong>email</strong>:<%= user.fbemail %><br>
+						<strong>name</strong>:<%= user.fbname %>
+					</p>
+
+				</div>
+			</div>
+
+		</div>
 
 	</div>
-
-</div>
 </body>
+
 </html>

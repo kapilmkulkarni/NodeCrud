@@ -1,26 +1,46 @@
 <!-- views/index.ejs -->
-<!doctype html>
-<html>
+
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="content-type" content="text/html">
 	<title>Node Authentication</title>
-	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css"> <!-- load bootstrap css -->
-	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"> <!-- load fontawesome -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+	<!-- load bootstrap css -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+	<!-- load fontawesome -->
 	<style>
-		body 		{ padding-top:80px; }
+		body {
+			padding-top: 80px;
+		}
 	</style>
 </head>
+
 <body>
-<div class="container">
+	<div class="container">
 
-	<div class="jumbotron text-center">
-		<h1><span class="fa fa-lock"></span> Node Authentication</h1>
+		<div class="jumbotron text-center">
+			<h1>
+				<span class="fa fa-lock"></span> Node Authentication</h1>
 
-		<p>Login or Register with:</p>
-		<a href="/login" class="btn btn-default"><span class="fa fa-user"></span> Local Login</a>
-		<a href="/signup" class="btn btn-default"><span class="fa fa-user"></span> Local Signup</a>
-		<a href="/auth/facebook" class="btn btn-primary"><span class="fa fa-facebook"></span> Facebook</a>
+			<p>Login or Register with:</p>
+			<a href="/login" class="btn btn-default">
+				<span class="fa fa-user"></span> Local Login</a>
+			<a href="/signup" class="btn btn-default">
+				<span class="fa fa-user"></span> Local Signup</a>
+			<a href="/auth/facebook" class="btn btn-primary">
+				<span class="fa fa-facebook"></span> Facebook</a>
+				<br>
+				<form action="/otp" method="post">
+					<input type="text" name="sno">
+					<input type="submit" value="verify">
+				</form>
+		</div>
+		
 	</div>
-
-</div>
 </body>
+
 </html>

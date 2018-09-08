@@ -1,0 +1,2557 @@
+[
+    {
+        "Tathwade Area": "Cust100",
+        "Name": "Usha Rangarajan",
+        "Address": "Flat No 32 Sector 29 ISKCON Mandir Rd Near PCMC Water Tank Pradhikaran",
+        "Mobile": "9822194909",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1013",
+        "Name": "Sumit Dey",
+        "Address": "A503 Kohinoor Grandeur Kiwale Chowk Mokai Chowk",
+        "Mobile": "8552909007",
+        "Area Location": "Mokai Chowk"
+    },
+    {
+        "Tathwade Area": "Cust1020",
+        "Name": "Dhananjay Okhade",
+        "Address": "1003 A19 Megapolis Splendour Hinjawadi Phase-3",
+        "Mobile": "9953034811",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust103",
+        "Name": "Pravin Sontakke",
+        "Address": "Tathawade",
+        "Mobile": "9922377389",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1036",
+        "Name": "Manali Dadlani",
+        "Address": "F803/804 Wisdom World School Park Titanium Park Street Wakad",
+        "Mobile": "7276249111",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1038",
+        "Name": "Vishal Gupta",
+        "Address": "F501 Ruby Park Park Street Wakad",
+        "Mobile": "9765334436",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1049",
+        "Name": "Ashutosh Karnik",
+        "Address": "G - 701,Sonigara Park, Dange Chowk",
+        "Mobile": "9619111070",
+        "Area Location": "Thergaon,Aundh Ravet Road,Pcmc,Pune"
+    },
+    {
+        "Tathwade Area": "Cust1050",
+        "Name": "Shrikant Ghodke",
+        "Address": "Royal Kasa Ravet",
+        "Mobile": "9822083575",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1052",
+        "Name": "Harsha Joshi",
+        "Address": "301 Nandadeep Apartment Shreedhar Nagar Chinchwad",
+        "Mobile": "9370726161",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust1061",
+        "Name": "Umesh Bhandari",
+        "Address": "Ravet",
+        "Mobile": "9823289848",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1062",
+        "Name": "Ambarish Shah",
+        "Address": "K1101 Park Titanium Park Street Wakad",
+        "Mobile": "9922772699",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1066",
+        "Name": "Akshay Taras",
+        "Address": "Kiwale Ravet",
+        "Mobile": "9158992505",
+        "Area Location": "Kiwale"
+    },
+    {
+        "Tathwade Area": "Cust1068",
+        "Name": "Vijay Gaikwad",
+        "Address": "Jambe",
+        "Mobile": "9881570405",
+        "Area Location": "Jambe"
+    },
+    {
+        "Tathwade Area": "Cust1078",
+        "Name": "Roshan Jaspal",
+        "Address": "Tathwade Store",
+        "Mobile": "9850378480",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1079",
+        "Name": "Naimish Patel",
+        "Address": "Ravet",
+        "Mobile": "9657083093",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1081",
+        "Name": "Trupti Patil",
+        "Address": "C706 Pimple saudagar 5 Garden Society",
+        "Mobile": "7507067676",
+        "Area Location": "Pimple saudagar"
+    },
+    {
+        "Tathwade Area": "Cust1091",
+        "Name": "Yogesh Bhondave",
+        "Address": "Silver Garden Eya Ravet",
+        "Mobile": "9922025151",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1093",
+        "Name": "Aditi Mamtora",
+        "Address": "B1204 Sanskriti Apartments Kaspate Vasti Wakad Pune 411057",
+        "Mobile": "8605003053",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1100",
+        "Name": "Anmol Bansal",
+        "Address": "Tower 2 902 Blue Ridge Hinjewadi Phase 1",
+        "Mobile": "9637130674",
+        "Area Location": "Hinjewadi"
+    },
+    {
+        "Tathwade Area": "Cust1104",
+        "Name": "Ganesh Tukaram Kamble",
+        "Address": "202 Awing B Bldg Katepuram Phase 1 Katepuram Chowk Navi Sanghvi",
+        "Mobile": "9763781408",
+        "Area Location": "Sanghvi"
+    },
+    {
+        "Tathwade Area": "Cust1108",
+        "Name": "Vaibhav Dalvi",
+        "Address": "Ravet",
+        "Mobile": "9011656541",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1109",
+        "Name": "Chetan Jadhav",
+        "Address": "Siddhivinayak Nagar Yamuna A Flat No 1 Nigdi Pune",
+        "Mobile": "7774030306",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust1110",
+        "Name": "Vijay P Matnani",
+        "Address": "Park Street Ruby Park C 202 Wakad Pune",
+        "Mobile": "9011088155",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1119",
+        "Name": "Nilesh Pawar",
+        "Address": "Tathawade",
+        "Mobile": "9822209405",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1124",
+        "Name": "Mosim Shaikh",
+        "Address": "Tathwade",
+        "Mobile": "9175593518",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1127",
+        "Name": "Ruben S C",
+        "Address": "Tathawade",
+        "Mobile": "9225516433",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1129",
+        "Name": "Nadiya Sikilkar",
+        "Address": "Bhumkar Chowk Wakad",
+        "Mobile": "8888875632",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1131",
+        "Name": "Jugal Adwani",
+        "Address": "Nigdi",
+        "Mobile": "9766605032",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust1142",
+        "Name": "MTU India Pvt Ltd",
+        "Address": "Tathawade",
+        "Mobile": "9923659974",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1163",
+        "Name": "Amar Jadhav",
+        "Address": "Punavale",
+        "Mobile": "9689907875",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1167",
+        "Name": "Adish",
+        "Address": "Tathwade",
+        "Mobile": "9971170671",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1177",
+        "Name": "Apurva Gawade",
+        "Address": "Tathwade",
+        "Mobile": "9011200707",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1182",
+        "Name": "Umesh Jadhav",
+        "Address": "A 13 Gayatree Eliagance sector no 26 sambhaji chowk near south indian bank panortho hospital Pradikaran Nigdi",
+        "Mobile": "9850497917",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1189",
+        "Name": "Arun Pandey",
+        "Address": "B1/ 1306 Akashar Elevamta Near Balaji Collage Tathawade",
+        "Mobile": "7507374004",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1195",
+        "Name": "Aarti",
+        "Address": "Bhalchandra Arrens Ravet",
+        "Mobile": "9765938293",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1205",
+        "Name": "Pravin Pawele",
+        "Address": "Tathwade",
+        "Mobile": "9657337236",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1213",
+        "Name": "Priya Patil",
+        "Address": "kapsate wasti , wakad",
+        "Mobile": "9970990985",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust1216",
+        "Name": "Mahesh Khollam",
+        "Address": "Tathwade",
+        "Mobile": "9765976740",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1217",
+        "Name": "Pooja Gupta",
+        "Address": "Tathawade",
+        "Mobile": "8888859930",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1218",
+        "Name": "Priyanka Chakraborty",
+        "Address": "B 204, Regency Classic, Mumbai Bangalore highway, Baner Road",
+        "Mobile": "7769871485",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1228",
+        "Name": "Shakil Tanekhan",
+        "Address": "402 Shivparvati Residency Ratnadeep Colony Dange Chowk Nr Copra Hotel",
+        "Mobile": "8600067880",
+        "Area Location": "Dange Chowk"
+    },
+    {
+        "Tathwade Area": "Cust1243",
+        "Name": "Anup Gaikwad",
+        "Address": "Jambhe Tathwade",
+        "Mobile": "9657254232",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1246",
+        "Name": "Sunil Nakum",
+        "Address": "Dange Chowk",
+        "Mobile": "9822747337",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1248",
+        "Name": "Akash Patil",
+        "Address": "Tathwade",
+        "Mobile": "9168365556",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1258",
+        "Name": "Ranjeet Patil",
+        "Address": "TATHWADE",
+        "Mobile": "8551058746",
+        "Area Location": "TATHWADE"
+    },
+    {
+        "Tathwade Area": "Cust126",
+        "Name": "Abhijit Kadam",
+        "Address": "A 605 Diamond Vishal Paradise Sec No 29 Ravet",
+        "Mobile": "9096575296",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1265",
+        "Name": "Sagar Misal",
+        "Address": "Tathwade",
+        "Mobile": "9822918773",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1268",
+        "Name": "Anuradha Menon",
+        "Address": "A1 803 Atlanta apartment near Saundarya Garden Restaurant Hinjewade Wakad Bridge 411057",
+        "Mobile": "9168090555",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1273",
+        "Name": "Praneet Sahay",
+        "Address": "Tathwade",
+        "Mobile": "9881233450",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1275",
+        "Name": "Saurabh Nawele",
+        "Address": "Tathwade",
+        "Mobile": "9607070777",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1279",
+        "Name": "Prashant Khanolkar",
+        "Address": "Tathwade",
+        "Mobile": "9767080534",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1282",
+        "Name": "Eikshith",
+        "Address": "Tathwade",
+        "Mobile": "7030581383",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1285",
+        "Name": "Sanjeev Shirke",
+        "Address": "MTU Tathwade",
+        "Mobile": "44444",
+        "Area Location": "MTU Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1290",
+        "Name": "mr sidharth maheshwari",
+        "Address": "aundh store",
+        "Mobile": "9823025123",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1297",
+        "Name": "Kartika Shrivastava",
+        "Address": "Tathwade",
+        "Mobile": "9860697280",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1303",
+        "Name": "Swapnil Bhandwalkar",
+        "Address": "Tathawade",
+        "Mobile": "9823287272",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1314",
+        "Name": "Sachin Kulkarni",
+        "Address": "D104 Kasp Countyy Kaspate Wasti Wakad",
+        "Mobile": "9545531283",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1316",
+        "Name": "Adarsh",
+        "Address": "Tathwade",
+        "Mobile": "7066534310",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1318",
+        "Name": "Sachin Chavan",
+        "Address": "Punawle",
+        "Mobile": "9156927047",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1321",
+        "Name": "Ankit Mathur",
+        "Address": "f 1102 sangria towars mega polise fase 3 hinjewadi",
+        "Mobile": "8411002534",
+        "Area Location": "hinjewadi"
+    },
+    {
+        "Tathwade Area": "Cust1327",
+        "Name": "Shailesh Bhatnagar",
+        "Address": "TCG The Crowns Green 1802 Tower2 Hinjewadi Phase 2",
+        "Mobile": "9837066760",
+        "Area Location": "Hinjewadi Phase 2"
+    },
+    {
+        "Tathwade Area": "Cust1332",
+        "Name": "Kiran Kakade",
+        "Address": "Talegoan Dabhade",
+        "Mobile": "8806668956",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust134",
+        "Name": "Shivani Bansal",
+        "Address": "Vishva 427/27A PCNT Nigdi Pradhikaran Opp Amardeep Sweetmart",
+        "Mobile": "9011289249",
+        "Area Location": "Nigdi 411044"
+    },
+    {
+        "Tathwade Area": "Cust1341",
+        "Name": "Vicky Pawar",
+        "Address": "Tathwade",
+        "Mobile": "9011913191",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1354",
+        "Name": "Rushikesh Phengse",
+        "Address": "Tathawade",
+        "Mobile": "9767143477",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1355",
+        "Name": "Pratap",
+        "Address": "Tathawade Store",
+        "Mobile": "7057183275",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1358",
+        "Name": "Major Thakur",
+        "Address": "Tathwade Store",
+        "Mobile": "9673731933",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1362",
+        "Name": "Hanumant Pawar",
+        "Address": "Tathwade Store",
+        "Mobile": "9822778008",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1367",
+        "Name": "Rohit Vilas Patil",
+        "Address": "Chinchwad",
+        "Mobile": "9923388873",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust1368",
+        "Name": "N K Das",
+        "Address": "B216 Sector 26 Nisarg Darshan Hsg Society Pradhikaran",
+        "Mobile": "8788545842",
+        "Area Location": "Pradhikaran"
+    },
+    {
+        "Tathwade Area": "Cust1373",
+        "Name": "Nitish Prasad",
+        "Address": "My Home MH 14 Punavle",
+        "Mobile": "8055606845",
+        "Area Location": "Punavle"
+    },
+    {
+        "Tathwade Area": "Cust1375",
+        "Name": "VISHWAJEET BHONDAWE",
+        "Address": "BANER_PASHAN LINK ROAD CAMWIA APPARTMENT C 1004",
+        "Mobile": "9822007711",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1384",
+        "Name": "Rinkle Shah",
+        "Address": "flat no 201, G Building, Mahindra Royale Housing Society, Opp H A Ground, Nehru Nagar Road, Pimpri, Pune",
+        "Mobile": "9823898168",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust1388",
+        "Name": "Praful Bhanekar",
+        "Address": "Tathwade Store",
+        "Mobile": "8928493643",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1398",
+        "Name": "Deva Ghanekar",
+        "Address": "Tathwade Store",
+        "Mobile": "7066081213",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1399",
+        "Name": "Sameer Jaiswal",
+        "Address": "Tathwade Store",
+        "Mobile": "9860133858",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1400",
+        "Name": "Nikhil Nawele",
+        "Address": "Tathwade Store",
+        "Mobile": "9850979955",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1404",
+        "Name": "Vivek Ghule",
+        "Address": "Tathawade Store",
+        "Mobile": "9850898489",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1415",
+        "Name": "Subhash Pawar",
+        "Address": "Tathwade Store",
+        "Mobile": "9822812906",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1418",
+        "Name": "Rahul Gawade",
+        "Address": "Nigdi Pradhikaran",
+        "Mobile": "9822977799",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust143",
+        "Name": "Subhash Jayshinganya",
+        "Address": "Sector no 27 Vardan Society Sambhaji Chowk Pune",
+        "Mobile": "9420641577",
+        "Area Location": "Sambhaji Chowk Pune"
+    },
+    {
+        "Tathwade Area": "Cust1450",
+        "Name": "Kaustubh Navle",
+        "Address": "Tathawade Store",
+        "Mobile": "9975555551",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1456",
+        "Name": "akshay",
+        "Address": "Flat No 102 Gurubani Hostel, Valhekarwadi, Swapnanagri, Akurdi Pune",
+        "Mobile": "8600966143",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust1457",
+        "Name": "Khusboo Nagrecha",
+        "Address": "Tathwade Store",
+        "Mobile": "9890402626",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1465",
+        "Name": "Akash Khaire",
+        "Address": "Ravet",
+        "Mobile": "9595440185",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1485",
+        "Name": "Sneha Adwani",
+        "Address": "A1004 Park Titanium Park Street Wakad Pune",
+        "Mobile": "9822532501",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1493",
+        "Name": "Nikil Telep",
+        "Address": "Tathwade Store",
+        "Mobile": "9309978770",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1494",
+        "Name": "Aajjay More",
+        "Address": "Tathwade Store",
+        "Mobile": "9623999995",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust15",
+        "Name": "B Nawale",
+        "Address": "Tathawade",
+        "Mobile": "9822661124",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1501",
+        "Name": "Pankhuri Sharma",
+        "Address": "Tathwade Store",
+        "Mobile": "860533344",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1508",
+        "Name": "Vinayak Sawant",
+        "Address": "Tathwade Store",
+        "Mobile": "8806037320",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1509",
+        "Name": "Umesh Takale",
+        "Address": "Tathwade Store",
+        "Mobile": "9763080044",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1510",
+        "Name": "Pravin",
+        "Address": "Tathwade Store",
+        "Mobile": "8450900131",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1513",
+        "Name": "Naven Soni",
+        "Address": "Tathwade Store",
+        "Mobile": "7776055007",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1520",
+        "Name": "Sandeep Katkam",
+        "Address": "Tathawade store",
+        "Mobile": "9739217531",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1532",
+        "Name": "Pradhan",
+        "Address": "Ravet",
+        "Mobile": "9423200860",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1543",
+        "Name": "D C Gharge",
+        "Address": "Tathawade",
+        "Mobile": "9890994646",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1546",
+        "Name": "Abhishek Nayalu",
+        "Address": "Tathwade Store",
+        "Mobile": "9665726076",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1550",
+        "Name": "Sachin poonia",
+        "Address": "Tathwade store",
+        "Mobile": "9890924859",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1557",
+        "Name": "N S Bhaldar",
+        "Address": "Tathawade Store",
+        "Mobile": "9922913569",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1561",
+        "Name": "Sujit",
+        "Address": "Kiwale",
+        "Mobile": "7276161783",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1570",
+        "Name": "Vikrant Nawale",
+        "Address": "tathwade",
+        "Mobile": "9689118080",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust158",
+        "Name": "Om Prakash",
+        "Address": "Flat 204 Block C Nano Space Society Ravet",
+        "Mobile": "9814539810",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1590",
+        "Name": "L S Mathre",
+        "Address": "Tathwade Store",
+        "Mobile": "8605464706",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1593",
+        "Name": "banit kaur",
+        "Address": "Tathwade Store",
+        "Mobile": "8600297327",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1595",
+        "Name": "Ankita Mundra",
+        "Address": "Tathwade Store",
+        "Mobile": "9867156360",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1599",
+        "Name": "jyotiram Durunde",
+        "Address": "Tathwade Store",
+        "Mobile": "9975432432",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust160",
+        "Name": "Smita Vyass",
+        "Address": "KachGhar Banglow Flat No 479 Sec 25 Pradhikaran",
+        "Mobile": "9922000077",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust1603",
+        "Name": "Abhijit Pawar",
+        "Address": "Tathwade Store",
+        "Mobile": "7020229674",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1605",
+        "Name": "Janhavi Kandhare",
+        "Address": "Tathwade Store",
+        "Mobile": "7769075557",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1606",
+        "Name": "Shubhangi",
+        "Address": "128/2 Sanghavi Steel Compound Mohan nagar Chinchwad",
+        "Mobile": "9822273588",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust1609",
+        "Name": "Amit Suryawanshi",
+        "Address": "Tathwade Store",
+        "Mobile": "9822855599",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1613",
+        "Name": "VIjay Garud",
+        "Address": "Tathawade Store",
+        "Mobile": "9766337711",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1617",
+        "Name": "Shobhada Yeole",
+        "Address": "A1003 Legacy Fortune Exotica Near Mukai Chowk near kohli gas Agency Ravet",
+        "Mobile": "9404215577",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1618",
+        "Name": "Swapnil Gawade",
+        "Address": "Tathwade Store",
+        "Mobile": "9975241019",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1628",
+        "Name": "Yogesh Chopade",
+        "Address": "Flat no 104 bldg D2 Kunal Icon Soc pimple Saudagar Pune",
+        "Mobile": "8550945544",
+        "Area Location": "Pimple Saudagar"
+    },
+    {
+        "Tathwade Area": "Cust1629",
+        "Name": "Rish Bhapkar",
+        "Address": "Tathwade Store",
+        "Mobile": "8999266561",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1640",
+        "Name": "k Balaji",
+        "Address": "Tathwade Store",
+        "Mobile": "9673339228",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1643",
+        "Name": "Dinkar Pawar",
+        "Address": "Iskon Temple Ravet",
+        "Mobile": "9922247705",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1646",
+        "Name": "Datta Kalate",
+        "Address": "Durvankur Nivas Bunglow Kalewadi Phata opp Soniy Mangal Karyalay Behind Om Hardware",
+        "Mobile": "9850689999",
+        "Area Location": "Kalewadi"
+    },
+    {
+        "Tathwade Area": "Cust1656",
+        "Name": "R D Gawade",
+        "Address": "Tathwade Store",
+        "Mobile": "9881477799",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1658",
+        "Name": "anand bhalerao",
+        "Address": "B 003 twin next apartment behind rajwada hotel showroom hotel someshwar wadi pashan",
+        "Mobile": "1.11E+11",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1663",
+        "Name": "Shubra Rastogi",
+        "Address": "Z201 Ashok Meadows Maan Road Hinjewadi Phase 1",
+        "Mobile": "9990556565",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1669",
+        "Name": "Sunita Rupanar",
+        "Address": "G1 Apostropy Soc Datta Mandir Rd Pune Wakad",
+        "Mobile": "9422506726",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust1670",
+        "Name": "Chandrakant Pilani",
+        "Address": "Talegaon Dabhade",
+        "Mobile": "9850259852",
+        "Area Location": "Talegaon Dabhade"
+    },
+    {
+        "Tathwade Area": "Cust1671",
+        "Name": "Hanumant Shinde",
+        "Address": "Tathawade",
+        "Mobile": "9922501788",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1674",
+        "Name": "Varun Suryawanshi",
+        "Address": "Tathwade Store",
+        "Mobile": "8669679990",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1676",
+        "Name": "Samaram Chaudhary",
+        "Address": "Tathwade Store",
+        "Mobile": "9096551478",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1677",
+        "Name": "Anil Nakhate",
+        "Address": "Tathwade Store",
+        "Mobile": "8888999900",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1686",
+        "Name": "Savio Lobo",
+        "Address": "Tathwade Store",
+        "Mobile": "9890744400",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1692",
+        "Name": "Pradeep",
+        "Address": "Tathwade Store",
+        "Mobile": "7770060746",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1693",
+        "Name": "Abhishek More",
+        "Address": "Tathwade Store",
+        "Mobile": "9545323459",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust17",
+        "Name": "K R Nimbalkar",
+        "Address": "Tathwade Store",
+        "Mobile": "9822064100",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1701",
+        "Name": "omkar Naik",
+        "Address": "Tathwade Store",
+        "Mobile": "8108556181",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1704",
+        "Name": "Abhishek Lal",
+        "Address": "B2 1201 Mahindra antheia Nehru Nagar Road Pimpri Chowk",
+        "Mobile": "9049643344",
+        "Area Location": "B2 1201 Mahindra antheia Nehru Nagar Road Pimpri Chowk"
+    },
+    {
+        "Tathwade Area": "Cust1705",
+        "Name": "Karishma Girme",
+        "Address": "104 Gaurang Bldg Prasundham Soc Opp Aditya Birla Hospital Chichwad",
+        "Mobile": "9767151079",
+        "Area Location": "Chichwad"
+    },
+    {
+        "Tathwade Area": "Cust1710",
+        "Name": "Freight Systems India Private Limited",
+        "Address": "Tathwade Store",
+        "Mobile": "8484011983",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust172",
+        "Name": "Pratik Kumbhar",
+        "Address": "Celestial City Ravet",
+        "Mobile": "8007589598",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1724",
+        "Name": "Aditya Sikaria",
+        "Address": "Tathawade Store",
+        "Mobile": "8600227770",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1726",
+        "Name": "Sameer Bhaldar",
+        "Address": "Tathwade Store",
+        "Mobile": "9922426672",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1727",
+        "Name": "Mayank G",
+        "Address": "Tathwade Store",
+        "Mobile": "8390146688",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1738",
+        "Name": "Shashank Khanolkar",
+        "Address": "Shantai Classic Opp S B Patil School Ravet",
+        "Mobile": "9049999567",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust1739",
+        "Name": "Vaishali Parande",
+        "Address": "Tathwade Store",
+        "Mobile": "9923095239",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1743",
+        "Name": "Sumangala Nair",
+        "Address": "Padamjee Paper Mill Thergaon",
+        "Mobile": "8793187178",
+        "Area Location": "Thergaon"
+    },
+    {
+        "Tathwade Area": "Cust175",
+        "Name": "Suhas Tillu",
+        "Address": "27/442 Pradhikaran Wagishwari Nigdi Pune",
+        "Mobile": "9822846618",
+        "Area Location": "Nigdi Pune 411045"
+    },
+    {
+        "Tathwade Area": "Cust1757",
+        "Name": "Nitin Dhamale",
+        "Address": "UTKARSH SECTOR 27/PLOT 97(J) PRADHIKARAN NIGDI PUNE 44",
+        "Mobile": "9881471001",
+        "Area Location": "Nigdi Pradhikaran"
+    },
+    {
+        "Tathwade Area": "Cust1759",
+        "Name": "Anjali Singh",
+        "Address": "Flat No 104 Aakash Ganga Society Pimple saudagar",
+        "Mobile": "9767216274",
+        "Area Location": "Pimple saudagar"
+    },
+    {
+        "Tathwade Area": "Cust1762",
+        "Name": "Shridhar Iyer",
+        "Address": "Thergaon",
+        "Mobile": "9822326200",
+        "Area Location": "Thergaon"
+    },
+    {
+        "Tathwade Area": "Cust1763",
+        "Name": "Sshubham",
+        "Address": "Tathwade Store",
+        "Mobile": "9657243361",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1768",
+        "Name": "Paresh Tak",
+        "Address": "Tathwade Store",
+        "Mobile": "9623858079",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1775",
+        "Name": "Bhavya",
+        "Address": "Tathwade Store",
+        "Mobile": "9779033579",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1779",
+        "Name": "Suryakant Kulkarni",
+        "Address": "Tathwade Store",
+        "Mobile": "9923879887",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1781",
+        "Name": "Arnav Sahana",
+        "Address": "Tathwade Store",
+        "Mobile": "8087593116",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1783",
+        "Name": "Shahnwaz",
+        "Address": "Tathwade Store",
+        "Mobile": "7276284725",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1789",
+        "Name": "Dinesh Jthithar",
+        "Address": "Tathwade Store",
+        "Mobile": "45455",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1791",
+        "Name": "Sancheta Kant",
+        "Address": "Aundh Store",
+        "Mobile": "8975334496",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1800",
+        "Name": "Abasar Khan",
+        "Address": "Tathwade Store",
+        "Mobile": "8407977884",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1802",
+        "Name": "Mahesh Yelwade",
+        "Address": "Tathwade Store",
+        "Mobile": "7058473392",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1803",
+        "Name": "Anil Bhondve",
+        "Address": "Tathwade Store",
+        "Mobile": "9921745555",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1804",
+        "Name": "Jayshree Navele",
+        "Address": "Tathwade",
+        "Mobile": "9822080505",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1809",
+        "Name": "Laxman Chaudhri",
+        "Address": "Tathwade Store",
+        "Mobile": "9881169289",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1810",
+        "Name": "Varun Joshi",
+        "Address": "Tathwade Store",
+        "Mobile": "7741007711",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1811",
+        "Name": "Deepa Navale",
+        "Address": "S no 55/1Navele Nagar Opp Balaji Society Tathawade",
+        "Mobile": "9881604912",
+        "Area Location": "Tathwade"
+    },
+    {
+        "Tathwade Area": "Cust1816",
+        "Name": "Binu Singh",
+        "Address": "Tathawade Store",
+        "Mobile": "9766014418",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1818",
+        "Name": "Abhilasha",
+        "Address": "Tathawade Store",
+        "Mobile": "7599441921",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1821",
+        "Name": "Sujay Sudeep",
+        "Address": "Tathwade Store",
+        "Mobile": "8983089016",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1822",
+        "Name": "Rajat Prasad",
+        "Address": "Tathwade Store",
+        "Mobile": "7767906457",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust1832",
+        "Name": "Mayur Salunkhe",
+        "Address": "Tathawade Store",
+        "Mobile": "9689675151",
+        "Area Location": "Tathawade store"
+    },
+    {
+        "Tathwade Area": "Cust1838",
+        "Name": "Mangesh Bhondve",
+        "Address": "Tathawade Store",
+        "Mobile": "9881025151",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1842",
+        "Name": "Bhavesh",
+        "Address": "Talegaon",
+        "Mobile": "9766903062",
+        "Area Location": "Talegaon"
+    },
+    {
+        "Tathwade Area": "",
+        "Name": "",
+        "Address": "",
+        "Mobile": "",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1861",
+        "Name": "Megha Agarwal",
+        "Address": "JEET Telco Kapoor Soc Polt no 10 sector 24 Pradhikarn Opp Axis Bank Nigdi",
+        "Mobile": "9993755123",
+        "Area Location": "JEET Telco Kapoor Soc Polt no 10 sector 24 Pradhikarn Opp Axis Bank Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust1862",
+        "Name": "Ganesh Pandhare",
+        "Address": "Tathawade Store",
+        "Mobile": "9922379278",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1867",
+        "Name": "Nilesh P",
+        "Address": "Tathawade Store",
+        "Mobile": "9028371531",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1869",
+        "Name": "Parshuram Haelwar",
+        "Address": "Tathawade Store",
+        "Mobile": "9850544047",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1870",
+        "Name": "Pranav Ugalkar",
+        "Address": "Tathawade Store",
+        "Mobile": "8698606769",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1874",
+        "Name": "Ajay More",
+        "Address": "Tathawade Store",
+        "Mobile": "544",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1876",
+        "Name": "vikrant dhokale",
+        "Address": "401 vista_c the woods aund ravat road Bekore Kalewadi Phata",
+        "Mobile": "9923031919",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1879",
+        "Name": "Ajinkya Gaikwad",
+        "Address": "Tathawade Store",
+        "Mobile": "8657587171",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1880",
+        "Name": "Anu Shinde",
+        "Address": "Tathawade Store",
+        "Mobile": "9921069999",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1884",
+        "Name": "Rakshanda",
+        "Address": "Tathawade Store",
+        "Mobile": "8796143850",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1885",
+        "Name": "Deepak Aware",
+        "Address": "Aundh Store",
+        "Mobile": "8888769919",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1886",
+        "Name": "Neha Vaidya",
+        "Address": "Aundh Store",
+        "Mobile": "9823354438",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1912",
+        "Name": "Yashwant Dambare",
+        "Address": "Tathawade Store",
+        "Mobile": "9527980185",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1919",
+        "Name": "Sonit Pardeshi",
+        "Address": "Tathawade Store",
+        "Mobile": "9890757281",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1920",
+        "Name": "Kaustubh A Navale",
+        "Address": "Tathawade Store",
+        "Mobile": "9881777207",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1921",
+        "Name": "Pravin Kate",
+        "Address": "Tathawade Store",
+        "Mobile": "555",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1923",
+        "Name": "Ganesh Yadav",
+        "Address": "Tathawade Store",
+        "Mobile": "9823295011",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1928",
+        "Name": "Karan Gade",
+        "Address": "Tathawade Store",
+        "Mobile": "9657771141",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1934",
+        "Name": "Vishal Dongre",
+        "Address": "Akurdi",
+        "Mobile": "7350275704",
+        "Area Location": "Akurdi"
+    },
+    {
+        "Tathwade Area": "Cust1941",
+        "Name": "Vivek Salunke",
+        "Address": "Tathawade Store",
+        "Mobile": "7875025858",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1943",
+        "Name": "Irrana B",
+        "Address": "Tathawade Store",
+        "Mobile": "9921531531",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1954",
+        "Name": "Nilesh Palkari",
+        "Address": "Tathawade Store",
+        "Mobile": "9664040084",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1955",
+        "Name": "Shradha Yadav",
+        "Address": "Navle Nagar",
+        "Mobile": "123445",
+        "Area Location": "Navle Nagar"
+    },
+    {
+        "Tathwade Area": "Cust1956",
+        "Name": "Nikhil Sapkal",
+        "Address": "Tathawade",
+        "Mobile": "9763477336",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust1959",
+        "Name": "Manish Bhagvat",
+        "Address": "Tathawade Store",
+        "Mobile": "8149688577",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1965",
+        "Name": "Pawar",
+        "Address": "Tathawade Store",
+        "Mobile": "8888419908",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust197",
+        "Name": "Nikhil Jain",
+        "Address": "B104 silver twing tathavade",
+        "Mobile": "9829855171",
+        "Area Location": "Tathavde"
+    },
+    {
+        "Tathwade Area": "Cust1972",
+        "Name": "amita jain",
+        "Address": "aundh store",
+        "Mobile": "9822499099",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1973",
+        "Name": "ruby karera",
+        "Address": "A 603 Sai marigold near kokane chowk pimple Saudagar Pune 411027",
+        "Mobile": "9881049997",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust1982",
+        "Name": "geeewam",
+        "Address": "aundh store",
+        "Mobile": "1254528",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust1983",
+        "Name": "Dinesh Salunke",
+        "Address": "Tathawade Store",
+        "Mobile": "8390376450",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust1985",
+        "Name": "Yogesh Kanhekar",
+        "Address": "T Store",
+        "Mobile": "8149151314",
+        "Area Location": "T Store"
+    },
+    {
+        "Tathwade Area": "Cust1999",
+        "Name": "Anand Ambekar",
+        "Address": "Ravet",
+        "Mobile": "9850835123",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust20",
+        "Name": "Suraj Babar",
+        "Address": "Royal Kasa A403",
+        "Mobile": "9552532424",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust2002",
+        "Name": "Nitin",
+        "Address": "Tathawade Store",
+        "Mobile": "55",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust2016",
+        "Name": "rupali jain",
+        "Address": "tathawde",
+        "Mobile": "9158988073",
+        "Area Location": "tathawde"
+    },
+    {
+        "Tathwade Area": "Cust2019",
+        "Name": "shivraj gade",
+        "Address": "thathwde",
+        "Mobile": "123456789",
+        "Area Location": "thathwde"
+    },
+    {
+        "Tathwade Area": "Cust2020",
+        "Name": "VIJENDRA PARDESHI",
+        "Address": "T STORE",
+        "Mobile": "9823387397",
+        "Area Location": "T STORE"
+    },
+    {
+        "Tathwade Area": "Cust2023",
+        "Name": "Tushar Singh",
+        "Address": "Ravet",
+        "Mobile": "8789775590",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust2024",
+        "Name": "Ajinkya Phadnis",
+        "Address": "Ravet",
+        "Mobile": "9923446386",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust2026",
+        "Name": "amit jain",
+        "Address": "TATHWADE",
+        "Mobile": "9975063360",
+        "Area Location": "TATHWADE"
+    },
+    {
+        "Tathwade Area": "Cust2028",
+        "Name": "Suraj Yadav",
+        "Address": "Pimpri",
+        "Mobile": "9552489735",
+        "Area Location": "Pimpri"
+    },
+    {
+        "Tathwade Area": "Cust2030",
+        "Name": "prashad chowdary",
+        "Address": "tathawde",
+        "Mobile": "9730096549",
+        "Area Location": "tathawde"
+    },
+    {
+        "Tathwade Area": "Cust2031",
+        "Name": "pallavi sandip pawar",
+        "Address": "tathawde",
+        "Mobile": "9657288265",
+        "Area Location": "tathawde"
+    },
+    {
+        "Tathwade Area": "Cust2034",
+        "Name": "prgyati shau",
+        "Address": "t store",
+        "Mobile": "7620609670",
+        "Area Location": "t store"
+    },
+    {
+        "Tathwade Area": "Cust2035",
+        "Name": "Isha Kathavate",
+        "Address": "17 Rakshak Society Pimple Nilakh Phata Aundh",
+        "Mobile": "9923004018",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust2040",
+        "Name": "Chintu",
+        "Address": "Tathawade Store",
+        "Mobile": "9372088333",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2042",
+        "Name": "Rahul Ubhe",
+        "Address": "Tathawade Store",
+        "Mobile": "8446716911",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2047",
+        "Name": "Priyadarshini",
+        "Address": "Tathawade Store",
+        "Mobile": "9967821627",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2051",
+        "Name": "Pankaj Jagtap",
+        "Address": "Tathawade Store",
+        "Mobile": "8600000307",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2067",
+        "Name": "Arvind Patel",
+        "Address": "Tathawade Store",
+        "Mobile": "8655299195",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2071",
+        "Name": "Sudhir Gaikwad",
+        "Address": "Tathawade Store",
+        "Mobile": "9850084040",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2077",
+        "Name": "Arun P Ingale",
+        "Address": "Tathawade Store",
+        "Mobile": "9823387667",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2078",
+        "Name": "Shaibali Das",
+        "Address": "Tathawade Store",
+        "Mobile": "7776999882",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2082",
+        "Name": "Shatakshi Srivastava",
+        "Address": "Flat No 903 Spendour Country Lane Beside Balaji Tyres Kalewadi Jagtap Dairy Rd",
+        "Mobile": "7799119729",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust2086",
+        "Name": "Kewal Borhate",
+        "Address": "Tathawade Store",
+        "Mobile": "7722091910",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2087",
+        "Name": "Satish Agarwal",
+        "Address": "Tathawade Store",
+        "Mobile": "8412073399",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2088",
+        "Name": "Sachin Bhondve",
+        "Address": "Tathawade Store",
+        "Mobile": "9067679800",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2090",
+        "Name": "Yamunatai Pawar",
+        "Address": "Tathawade Store",
+        "Mobile": "9881224022",
+        "Area Location": "Tathawde Store"
+    },
+    {
+        "Tathwade Area": "Cust2100",
+        "Name": "Kanak Thakare",
+        "Address": "Pune",
+        "Mobile": "973099000",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust2101",
+        "Name": "Ashok Garud",
+        "Address": "Tathawade Store",
+        "Mobile": "9822318461",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2113",
+        "Name": "Soniya Dubey",
+        "Address": "Tathawade Store",
+        "Mobile": "9223232108",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2114",
+        "Name": "Chaaya Pawar",
+        "Address": "Tathawade Store",
+        "Mobile": "9145235039",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2117",
+        "Name": "Sushama R Bhujbal",
+        "Address": "Tathawade Store",
+        "Mobile": "9850791841",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2120",
+        "Name": "Bhujbal M G",
+        "Address": "Tathawade Store",
+        "Mobile": "9922444722",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2124",
+        "Name": "Kamlesh A Shewale",
+        "Address": "Tathawade Store",
+        "Mobile": "7276568290",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2125",
+        "Name": "Nitin Kate",
+        "Address": "Tathawade Store",
+        "Mobile": "9881323354",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2129",
+        "Name": "Rafik Tambole",
+        "Address": "Tathawade Store",
+        "Mobile": "7507511414",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2131",
+        "Name": "Richaa",
+        "Address": "Tathawade Store",
+        "Mobile": "9765089412",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2132",
+        "Name": "Shivraj",
+        "Address": "Tathawade Store",
+        "Mobile": "9922721111",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2137",
+        "Name": "Laxman Ghavte",
+        "Address": "Tathawade Store",
+        "Mobile": "9850104650",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2138",
+        "Name": "Bhushan Javle",
+        "Address": "Tathawade Store",
+        "Mobile": "9763095365",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2140",
+        "Name": "Imtiyaaz Khan",
+        "Address": "Tathawade Store",
+        "Mobile": "1010101010",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2142",
+        "Name": "Aardhay Autopoint",
+        "Address": "Tathawade Store",
+        "Mobile": "9604512026",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2143",
+        "Name": "Vidyadhar Handekar",
+        "Address": "T Store",
+        "Mobile": "7775989328",
+        "Area Location": "T Store"
+    },
+    {
+        "Tathwade Area": "Cust2144",
+        "Name": "Pirjade",
+        "Address": "Dange Chowk",
+        "Mobile": "9049290788",
+        "Area Location": "Dange Chowk"
+    },
+    {
+        "Tathwade Area": "Cust2147",
+        "Name": "Jaydeep Singh",
+        "Address": "Tathawade Store",
+        "Mobile": "222",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2150",
+        "Name": "Haridas",
+        "Address": "D104 Rose Icon Society Opp HDFC Bank Kunal Icon Rd Pimple Saudagar",
+        "Mobile": "7028131837",
+        "Area Location": "Pimple Saudagar"
+    },
+    {
+        "Tathwade Area": "Cust2153",
+        "Name": "Hemant Kapkote",
+        "Address": "Bluewater Tathwade",
+        "Mobile": "7030695806",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust2157",
+        "Name": "Abir Khan",
+        "Address": "Tathawade Store",
+        "Mobile": "7038299916",
+        "Area Location": "Tarhawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2159",
+        "Name": "Sachindra Patil",
+        "Address": "Tathawade Store",
+        "Mobile": "9423559463",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2161",
+        "Name": "Qadri",
+        "Address": "Tathawade Store",
+        "Mobile": "9823763470",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2164",
+        "Name": "Rajiv Kothale",
+        "Address": "Tathawade Store",
+        "Mobile": "9321337312",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust2167",
+        "Name": "Ravindra Bhondave",
+        "Address": "T store",
+        "Mobile": "9922030116",
+        "Area Location": "T store"
+    },
+    {
+        "Tathwade Area": "Cust2169",
+        "Name": "Prasad Dagade",
+        "Address": "T Store",
+        "Mobile": "9975779884",
+        "Area Location": "T Store"
+    },
+    {
+        "Tathwade Area": "Cust2171",
+        "Name": "Shweta Jain",
+        "Address": "Sec 24 Plot no 13 Gaurav bungalow telco kapoor housing society opposite axis bank pradhikaran Nigdi",
+        "Mobile": "9730240820",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust2175",
+        "Name": "Sunil Upmanyu",
+        "Address": "Tathawade Store",
+        "Mobile": "9860964600",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust220",
+        "Name": "Girish Tripathi",
+        "Address": "16 number Solano Soc Thergon",
+        "Mobile": "9850143340",
+        "Area Location": "Thergaon"
+    },
+    {
+        "Tathwade Area": "Cust221",
+        "Name": "Rakshanda Chandrakude",
+        "Address": "Flat 601 A 15 Navajivan Hous soc Gharkul Shahunagar Chikhali Pune",
+        "Mobile": "8796143850",
+        "Area Location": "Chikhali"
+    },
+    {
+        "Tathwade Area": "Cust243",
+        "Name": "Ashok lembhe",
+        "Address": "V 404 Celestial Ravet",
+        "Mobile": "9881722850",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust262",
+        "Name": "Kanak Thakare",
+        "Address": "Sonigara Classic FlatA14 Akurdi",
+        "Mobile": "9730990000",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust265",
+        "Name": "Guruprasad Bhat",
+        "Address": "B804 GK Royal Hills Ravet Dehuroad Ravet Pune",
+        "Mobile": "9673940142",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust271",
+        "Name": "Abhishek Tankariya",
+        "Address": "301baner",
+        "Mobile": "9820196433",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust28",
+        "Name": "Sahani",
+        "Address": "abc",
+        "Mobile": "9767384438",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust29",
+        "Name": "Sachin Hatale",
+        "Address": "Bhondve Chowk",
+        "Mobile": "9011051593",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust296",
+        "Name": "Jitesh vanvari",
+        "Address": "survey No11/1 B Plot No17 Opp Sukhavani Paradise Near World Royal School Pimpari Town",
+        "Mobile": "8888744447",
+        "Area Location": "Pimpari"
+    },
+    {
+        "Tathwade Area": "Cust305",
+        "Name": "Samrath Hatela",
+        "Address": "B1102 Ganga Aurum Park Sector No 60/2 Behind Ginger Hotel",
+        "Mobile": "9765989677",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust31",
+        "Name": "Alish Yedekar",
+        "Address": "103/5/2 Shekhar Smurti Banglow Near SBPatil School Lakshmi Nagar",
+        "Mobile": "9527347244",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust320",
+        "Name": "Sachin Navle",
+        "Address": "Tathawade",
+        "Mobile": "9850570548",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust327",
+        "Name": "Juhi mehra",
+        "Address": "b504 Solitaire residency pimple Soudagar",
+        "Mobile": "7030625387",
+        "Area Location": "pune"
+    },
+    {
+        "Tathwade Area": "Cust328",
+        "Name": "V Ramnathan",
+        "Address": "Five Gurdan Rahatani 1403 /4",
+        "Mobile": "9850821447",
+        "Area Location": "Rahatani"
+    },
+    {
+        "Tathwade Area": "Cust338",
+        "Name": "Sakharam Nakhate",
+        "Address": "Pimpale Saudagar Nakhate Wasti",
+        "Mobile": "9823777700",
+        "Area Location": "Pimaple saudagar"
+    },
+    {
+        "Tathwade Area": "Cust340",
+        "Name": "Vidisha Gujar",
+        "Address": "Sector No 25 Plot No 503 Pradhikaran",
+        "Mobile": "8390138899",
+        "Area Location": "Pradhikaran"
+    },
+    {
+        "Tathwade Area": "Cust349",
+        "Name": "Niraj Mankad",
+        "Address": "A404 Iris Apts Nr Cummins India Office Balewadi High Street",
+        "Mobile": "8805105600",
+        "Area Location": "Pune"
+    },
+    {
+        "Tathwade Area": "Cust35",
+        "Name": "Aparna Deshmukh",
+        "Address": "76/20 Krushna Nagar",
+        "Mobile": "8888945999",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust366",
+        "Name": "Sudhanshu Mishra",
+        "Address": "V 501 Calestial City Phase 1 Ravet",
+        "Mobile": "8007088008",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust375",
+        "Name": "Rohan Salgakar",
+        "Address": "Visava Plot no 94 Sector 20 Krushna Nagar Chikhli Road",
+        "Mobile": "9881727505",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust392",
+        "Name": "Dipika Varma",
+        "Address": "B 1 Gayatree Eliagance Plot No F 6 To 10 Near By South Indian Bank Sector 26 Sambhaji Chowk Pradhika",
+        "Mobile": "9552514003",
+        "Area Location": "Pradhikaran"
+    },
+    {
+        "Tathwade Area": "Cust393",
+        "Name": "Rajesh Bhujbal",
+        "Address": "Punawale",
+        "Mobile": "9960200400",
+        "Area Location": "Punawale"
+    },
+    {
+        "Tathwade Area": "Cust402",
+        "Name": "Rahul Pawar",
+        "Address": "Yamuna |Nivas Raghunandan Mangal Karaylay Tathawade",
+        "Mobile": "9823281010",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust403",
+        "Name": "Rashmi Gupta",
+        "Address": "B7705 Sonigara Kesar Near PNB Kaspate Wasti Wakad Pune",
+        "Mobile": "9850842080",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust419",
+        "Name": "Kapil Agarwal",
+        "Address": "Empire Estate Chinchwad",
+        "Mobile": "9921185999",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust42",
+        "Name": "Rohan Kumbhar",
+        "Address": "Celestial City G bldg Flat No 102 Phase 1 Near BRT Rd Ravet",
+        "Mobile": "8888836706",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust435",
+        "Name": "roopa Eli",
+        "Address": "g602park Titanium park street wakad",
+        "Mobile": "9730145772",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust440",
+        "Name": "Abhijit Kunte",
+        "Address": "Flat No 801 A Building Goldcoast Ivory Estates",
+        "Mobile": "9822079260",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust448",
+        "Name": "Akshay Dolare",
+        "Address": "Thergoan",
+        "Mobile": "7030108683",
+        "Area Location": "Thergoan"
+    },
+    {
+        "Tathwade Area": "Cust455",
+        "Name": "Archir Hotels And Resorts Pvt Ltd",
+        "Address": "Tathwade",
+        "Mobile": "9833587387",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust47",
+        "Name": "Ashish Dasar",
+        "Address": "2/1138 Shalom Sr No 42 Vijay Nagar",
+        "Mobile": "9890329944",
+        "Area Location": "Dehu Road"
+    },
+    {
+        "Tathwade Area": "Cust470",
+        "Name": "Asha Z",
+        "Address": "C434 Rail Vihar Bijlinagar Chinchwad",
+        "Mobile": "9560100442",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust478",
+        "Name": "Kirti Shah",
+        "Address": "Gayatree Eligance Flat no D1 Sec no 26 Plot no F6/F10 Nr South Indian Bank Pradhikaran",
+        "Mobile": "9665779852",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust485",
+        "Name": "Prakash Thakur",
+        "Address": "Ravet",
+        "Mobile": "9987401607",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust491",
+        "Name": "Shailesh Ramchandani",
+        "Address": "Pimplesaudagar",
+        "Mobile": "9764002727",
+        "Area Location": "Pimplesaudagar"
+    },
+    {
+        "Tathwade Area": "Cust495",
+        "Name": "Pranjal Sisodiya",
+        "Address": "Shinde Wasti Ravet",
+        "Mobile": "9922995241",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust515",
+        "Name": "Sanyogita Lad",
+        "Address": "C303 Prestin Prolife opp life Point hospital Mumbai Pune Highway",
+        "Mobile": "9168427878",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust516",
+        "Name": "Swati Mishra",
+        "Address": "C 401 Shilp Society Punawale",
+        "Mobile": "9545678948",
+        "Area Location": "Punawale"
+    },
+    {
+        "Tathwade Area": "Cust523",
+        "Name": "Shubham Kumar",
+        "Address": "B103 Padmaley Park Nr Bridge Point Hotel Nr London Bridge Akurdi Pune",
+        "Mobile": "7030588169",
+        "Area Location": "Akurdi 411033"
+    },
+    {
+        "Tathwade Area": "Cust535",
+        "Name": "Manish Tripathi",
+        "Address": "Solana Housing Soc 16 No Thergaon",
+        "Mobile": "7276047659",
+        "Area Location": "Thergaon"
+    },
+    {
+        "Tathwade Area": "Cust538",
+        "Name": "Kaluram Nawale",
+        "Address": "Tathawade",
+        "Mobile": "9762008686",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust610",
+        "Name": "Rohan Ganatra",
+        "Address": "Camelot Society",
+        "Mobile": "7777973557",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust622",
+        "Name": "Ashutosh Verma",
+        "Address": "Celestial City Ravet",
+        "Mobile": "9890839353",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust623",
+        "Name": "Rahul Kalate",
+        "Address": "Opp ZP School Wakad Chowk Wakad",
+        "Mobile": "9767292757",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust631",
+        "Name": "Abhishek",
+        "Address": "P5 401 Empire Estate",
+        "Mobile": "9600036136",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust637",
+        "Name": "Aruna Kunte",
+        "Address": "A 502 Gold Coast Society Ivory Estates Next To Greenpark Hotel Baner Road",
+        "Mobile": "9822097282",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust653",
+        "Name": "Nachiket Khambete",
+        "Address": "Chinchwad",
+        "Mobile": "7875023131",
+        "Area Location": "Chinchwad"
+    },
+    {
+        "Tathwade Area": "Cust663",
+        "Name": "Seema Nawale",
+        "Address": "Nawale Bungalow Nawale wasti",
+        "Mobile": "9921162777",
+        "Area Location": "Nawale wasti"
+    },
+    {
+        "Tathwade Area": "Cust665",
+        "Name": "Upama Chaudhari",
+        "Address": "F602 Park Royale near kokane chowk Rahatni Pune 411017",
+        "Mobile": "9765552420",
+        "Area Location": "Rahatni Pune 411017"
+    },
+    {
+        "Tathwade Area": "Cust673",
+        "Name": "Rushikesh Bhondave",
+        "Address": "H 101 Silver Gardenia Near BRT Rd Ravet",
+        "Mobile": "7038987040",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust682",
+        "Name": "Siddhant",
+        "Address": "B 304, pinnac gangotri, nagras road. aundh",
+        "Mobile": "8779151099",
+        "Area Location": "pune"
+    },
+    {
+        "Tathwade Area": "Cust684",
+        "Name": "Rishabh Jain",
+        "Address": "3/4 Sector 21 Yamunanagar Nigdi Pune",
+        "Mobile": "8408019101",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust691",
+        "Name": "Nikhil",
+        "Address": "Punavle Corner",
+        "Mobile": "7448001373",
+        "Area Location": "Tathwade Store"
+    },
+    {
+        "Tathwade Area": "Cust704",
+        "Name": "shankar Bhondave",
+        "Address": "Bhondave Vasti Ravet",
+        "Mobile": "9822279998",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust717",
+        "Name": "Madhuri Sarnobat",
+        "Address": "DSK Kate wasti opp Express Highway",
+        "Mobile": "9970530810",
+        "Area Location": "Punawale"
+    },
+    {
+        "Tathwade Area": "Cust729",
+        "Name": "piyesh B Rumale",
+        "Address": "JSPN College Ravet",
+        "Mobile": "8408948300",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust736",
+        "Name": "Prakash Shinde",
+        "Address": "Punawle",
+        "Mobile": "9766933493",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust742",
+        "Name": "Sachin Bhondave",
+        "Address": "Ravet",
+        "Mobile": "9822575372",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust764",
+        "Name": "Vikas Thapar",
+        "Address": "Kasa royal 36 Aundh",
+        "Mobile": "9623119827",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust768",
+        "Name": "Shankar Kumar",
+        "Address": "1106 EFC Tech Centre Nr Ruby Hall Clinic Hinjewadi Phase 1 Pune",
+        "Mobile": "9145334236",
+        "Area Location": "Pune"
+    },
+    {
+        "Tathwade Area": "Cust782",
+        "Name": "Amol More",
+        "Address": "Tathawade",
+        "Mobile": "9763517759",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust798",
+        "Name": "Sujan kamble",
+        "Address": "Flat 205 Nisarg residency near Dmart ravet",
+        "Mobile": "9890936926",
+        "Area Location": "ravet"
+    },
+    {
+        "Tathwade Area": "Cust799",
+        "Name": "vinny pherwani",
+        "Address": "belvedere flat no 303+304 Bldg H3 opp anand park I T I road behind titan showroom Aundh pune",
+        "Mobile": "7020308001",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust811",
+        "Name": "vibha malpani",
+        "Address": "12 A goodwill society ITI Road",
+        "Mobile": "9823166333",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust812",
+        "Name": "Keyur",
+        "Address": "K17 801 Sunway Megapolice Phase 3 Hinjewadi",
+        "Mobile": "9920530705",
+        "Area Location": "Hinjewadi"
+    },
+    {
+        "Tathwade Area": "Cust827",
+        "Name": "Anuradha Bagade",
+        "Address": "E1204 Park Titanium Park Street Behind Wisdom World School Wakad",
+        "Mobile": "7276247272",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust832",
+        "Name": "Laxmikanth Bhangdiya",
+        "Address": "C-202, Aaditya Terraces, Shinde-Vasti, Pipeline Road, Ravet, Phne",
+        "Mobile": "7774053340",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust834",
+        "Name": "Sachin Rokade",
+        "Address": "Punavle",
+        "Mobile": "9922838309",
+        "Area Location": "Punavle"
+    },
+    {
+        "Tathwade Area": "Cust837",
+        "Name": "Aparna Singh",
+        "Address": "Row House No 27 Dwarkadheesh Garden Shivar Chowk Pimple Saudagar Rahatni",
+        "Mobile": "9763681911",
+        "Area Location": "Pimple Saudagar Rahatni"
+    },
+    {
+        "Tathwade Area": "Cust841",
+        "Name": "teenu wadhwani",
+        "Address": "Flat No1106 Tierra viva pashan highway side road",
+        "Mobile": "9607514061",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust847",
+        "Name": "Nilesh Patil",
+        "Address": "Shruti Vastavya Sector No29 Opp Dmart Behind Bhondave Corner Ravet",
+        "Mobile": "9762072888",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust849",
+        "Name": "JAYAN Perumal",
+        "Address": "B506, Royal Imperio, Near Kokane Chowk, Rahatani",
+        "Mobile": "9011008310",
+        "Area Location": "Rahatani"
+    },
+    {
+        "Tathwade Area": "Cust85",
+        "Name": "D S Bhalerao",
+        "Address": "Talegaon",
+        "Mobile": "9552564464",
+        "Area Location": "Talegaon"
+    },
+    {
+        "Tathwade Area": "Cust853",
+        "Name": "Ricky Narayan",
+        "Address": "Viveknagar Akurdi",
+        "Mobile": "8051985095",
+        "Area Location": "Akurdi"
+    },
+    {
+        "Tathwade Area": "Cust861",
+        "Name": "Rakesh Kumar",
+        "Address": "Nigdi",
+        "Mobile": "9538966333",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust868",
+        "Name": "Shital Dherange",
+        "Address": "Sarthi Shilp, Akurdi, Pune",
+        "Mobile": "9762051987",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust897",
+        "Name": "Prashant Jare",
+        "Address": "Kalewadi Phata Wakad",
+        "Mobile": "7875550375",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust9",
+        "Name": "Gaikwad",
+        "Address": "Aundh",
+        "Mobile": "9850915656",
+        "Area Location": "Pune"
+    },
+    {
+        "Tathwade Area": "Cust90",
+        "Name": "Vishal Bhanushali",
+        "Address": "Yamaha Showroom Near Pratibha Motors",
+        "Mobile": "9823088951",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust901",
+        "Name": "Tariq Shaikh",
+        "Address": "F 104 Aakashganga Society Rahatni",
+        "Mobile": "9764211456",
+        "Area Location": "Rahatni"
+    },
+    {
+        "Tathwade Area": "Cust906",
+        "Name": "Kapil Kulkarni",
+        "Address": "G K Royal Hills Nr S B Patil School Ravet",
+        "Mobile": "9890167312",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust909",
+        "Name": "Jaydeep Singh",
+        "Address": "Ravet",
+        "Mobile": "9168884623",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust91",
+        "Name": "Nitin Pawar",
+        "Address": "Pawar Wasti",
+        "Mobile": "9923561010",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust911",
+        "Name": "Rashpal Khurmi",
+        "Address": "A2/A404 Siddhivinayak Ginger kunal icon Rd Pimplesaudagar Opp Rose Icon Society",
+        "Mobile": "9762170776",
+        "Area Location": "Pimplesaudagar"
+    },
+    {
+        "Tathwade Area": "Cust914",
+        "Name": "Luv Rawal",
+        "Address": "Sparsh Bldg Flat No 4 Bhakti Marg law College Rd Nr Film Institute Pune",
+        "Mobile": "9822099069",
+        "Area Location": "Pune"
+    },
+    {
+        "Tathwade Area": "Cust917",
+        "Name": "Madhumita",
+        "Address": "Royal Rahadaki Greens Appartment Bldg f 204 Shivraj Nagar Rahatni",
+        "Mobile": "9172623541",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust920",
+        "Name": "rakhi nawani",
+        "Address": "maruti complx flat 7 near ashok theater pimpri",
+        "Mobile": "9764886049",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust923",
+        "Name": "Abhishek Ballal",
+        "Address": "Mokai Chowk Kiwale",
+        "Mobile": "9226959231",
+        "Area Location": "Kiwale"
+    },
+    {
+        "Tathwade Area": "Cust926",
+        "Name": "Mousumi Nandy",
+        "Address": "B701 Pristine Shatrunjay Plot 13/2 Sector 29 Ravet Pradhikaran Adjacent To Bhondave Corner",
+        "Mobile": "9818445519",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust929",
+        "Name": "Akhil Alkari",
+        "Address": "B501 Nano Homes Ravet",
+        "Mobile": "9623944496",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust942",
+        "Name": "Vaibhav Thakur",
+        "Address": "Kiwale",
+        "Mobile": "9987273135",
+        "Area Location": "Kiwale"
+    },
+    {
+        "Tathwade Area": "Cust947",
+        "Name": "Sidhu Puri",
+        "Address": "Tathawade Store",
+        "Mobile": "9890136660",
+        "Area Location": "Tathawade Store"
+    },
+    {
+        "Tathwade Area": "Cust948",
+        "Name": "Rajeev Agarwal",
+        "Address": "2201, Tower 9, Blue Ridge, Hinjewadi Phase 1",
+        "Mobile": "9545200037",
+        "Area Location": "Maharashtra"
+    },
+    {
+        "Tathwade Area": "Cust953",
+        "Name": "Purva Inamdar",
+        "Address": "508 Aditya Malhar Pipeline Rd Near Aditya Terrace Shinde wasti Ravet",
+        "Mobile": "7722035093",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust955",
+        "Name": "aniruddha",
+        "Address": "chaitaban b wing opp croma",
+        "Mobile": "7021887443",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust957",
+        "Name": "Ambika Gupta",
+        "Address": "D704 Malpani Greens Society Kaspate Wasti Wakad",
+        "Mobile": "8806257938",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust958",
+        "Name": "Vaibhauv Vijay",
+        "Address": "C1 204, Nandan Inspera, Datta Mandir Road Wakad",
+        "Mobile": "7774037708",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust965",
+        "Name": "Abhijit Kumar",
+        "Address": "D23 Anmol Residency Kaspate Wasti Wakad",
+        "Mobile": "8605367691",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust967",
+        "Name": "Atul Nawle",
+        "Address": "Tathwade",
+        "Mobile": "9923742828",
+        "Area Location": "Tathawade"
+    },
+    {
+        "Tathwade Area": "Cust969",
+        "Name": "Rahesh Kurukkal",
+        "Address": "B601 Kalpataru Splendour Near Euro School Shankar Kalat Nagar Wakad Pune",
+        "Mobile": "8971709483",
+        "Area Location": "Wakad"
+    },
+    {
+        "Tathwade Area": "Cust97",
+        "Name": "Tukaram Pawar",
+        "Address": "Pawar Wasti",
+        "Mobile": "9850431817",
+        "Area Location": "Tathawde"
+    },
+    {
+        "Tathwade Area": "Cust984",
+        "Name": "Anil Choudhary",
+        "Address": "My Home MH14 Punavle",
+        "Mobile": "7020651873",
+        "Area Location": "Punavle"
+    },
+    {
+        "Tathwade Area": "Cust987",
+        "Name": "Tushar Kamthe",
+        "Address": "Sec No 29 Nigdi Pradhikaran",
+        "Mobile": "7722028944",
+        "Area Location": "Nigdi"
+    },
+    {
+        "Tathwade Area": "Cust991",
+        "Name": "Swati Shah",
+        "Address": "Flat No sayli App Prabhat Road Lane No 7",
+        "Mobile": "8007322777",
+        "Area Location": ""
+    },
+    {
+        "Tathwade Area": "Cust995",
+        "Name": "Mukundraj Kharosekar",
+        "Address": "Mokai Chowk Ravet",
+        "Mobile": "9423346689",
+        "Area Location": "Ravet"
+    },
+    {
+        "Tathwade Area": "Cust999",
+        "Name": "Priyanka Singh",
+        "Address": "Bhumkar Chowk",
+        "Mobile": "9823168846",
+        "Area Location": "Bhumkar Chowk"
+    },
+    {
+        "Tathwade Area": "",
+        "Name": "Total",
+        "Address": "363",
+        "Mobile": "",
+        "Area Location": ""
+    }
+]
